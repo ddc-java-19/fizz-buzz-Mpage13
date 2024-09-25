@@ -2,8 +2,8 @@ package edu.cnm.deepdive;
 
 public class FizzBuzz {
 
-  public static final String FIZZ_RESULT = "Sass";
-  public static final String BUZZ_RESULT = "Squatch";
+  public static final String FIZZ_RESULT = "Fizz";
+  public static final String BUZZ_RESULT = "Buzz";
   public static final String FIZZ_BUZZ_RESULT = FIZZ_RESULT + BUZZ_RESULT;
 
   public String valueOf(int input){
